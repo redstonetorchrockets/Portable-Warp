@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "redstone_torch_rocket": {
+            "textures": "textures/items/redstone_torch_rocket"
+        },
+        "rocket_launcher": {
+            "textures": "textures/items/rocket_launcher"
+        },
+        "portable_warp": {
+            "textures": "textures/items/portable_warp"
+        }    
+    }
+}
